@@ -1,0 +1,2 @@
+class Carlton < ApplicationRecord
+end
