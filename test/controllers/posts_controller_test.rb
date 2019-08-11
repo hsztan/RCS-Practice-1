@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class CarltonTest < ActiveSupport::TestCase
+class PostsControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end

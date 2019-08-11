@@ -1,2 +1,0 @@
-class Carlton < ApplicationRecord
-end
